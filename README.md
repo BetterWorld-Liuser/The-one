@@ -4,7 +4,9 @@ description: 我不想搜索到一堆答案
 
 # 介绍
 
-## 
+{% hint style="info" %}
+[点击这里加入我](https://app.gitbook.com/invite/the-one-1?invite=-LeEp13s3Teg-k-kowcr) 😀 
+{% endhint %}
 
 ## 这是一个基于Gitbook的一个解决方案手册。
 
