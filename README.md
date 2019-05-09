@@ -4,15 +4,9 @@ description: 我不想搜索到一堆答案
 
 # 介绍
 
-* 这是基于Gitbook的一个解决方案手册。
+## 这是基于Gitbook的一个解决方案手册。
 
 > 所谓一个解决方案就是为了解决在Google和百度上搜索半天，找到一堆不知对错答案的困扰。
-
-{% hint style="info" %}
-[点击这里加入我](https://app.gitbook.com/invite/the-one-1?invite=-LeEp13s3Teg-k-kowcr) 😀 
-{% endhint %}
-
-## 这是一个基于Gitbook的一个解决方案手册。
 
 * **这个手册需要保证每个答案都是最优解**，这就意味着：
 
@@ -22,6 +16,10 @@ description: 我不想搜索到一堆答案
 
 * 我选择GitBook和石墨文档来实现我所期望的功能。
 * GitBook和石墨文档都是可协作的，也是可评论的。
+
+{% hint style="info" %}
+[点击这里加入我](https://app.gitbook.com/invite/the-one-1?invite=-LeEp13s3Teg-k-kowcr) 😀 
+{% endhint %}
 
 > 具体操作我之后会出详细的教程，目前我在丰富项目内容。
 
@@ -42,7 +40,7 @@ description: 我不想搜索到一堆答案
 
   我决定使用[石墨文档](https://shimo.im/welcome)作为储存我们绝大多数文档内容的容器。
 
-### \*\*\*\*[**这是一个例子**](https://shimo.im/docs/3JJvN8KOQJA0dtFC/)\*\*\*\*
+### \*\*\*\*[**一个例子**](https://shimo.im/docs/3JJvN8KOQJA0dtFC/)\*\*\*\*
 
 
 
