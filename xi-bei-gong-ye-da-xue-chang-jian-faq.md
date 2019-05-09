@@ -4,6 +4,10 @@ description: FAQ of Northwest Polytechnic University
 
 # 西北工业大学常见FAQ
 
+{% hint style="info" %}
+[点击编辑文档](https://app.gitbook.com/invite/the-one-1?invite=-LeEp13s3Teg-k-kowcr)😊 
+{% endhint %}
+
 ## 校车时间点？/What time is the school bus?
 
 * 长安校区
