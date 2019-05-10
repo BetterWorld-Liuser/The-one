@@ -36,6 +36,10 @@ description: 我不想搜索到一堆答案
 [点击这里加入我](https://app.gitbook.com/invite/the-one-1?invite=-LeEp13s3Teg-k-kowcr) 😀 
 {% endhint %}
 
+## 加群与我交流
+
+![&#x7FA4;&#x7684;&#x4E8C;&#x7EF4;&#x7801;](.gitbook/assets/temp_qrcode_share_685589910.png)
+
 > 具体操作我之后会出详细的教程，目前我在丰富项目内容。
 
 > 暂由liu个人制作 ❤ 
