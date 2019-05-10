@@ -7,4 +7,6 @@
   * [问题导向区](ji-suan-ji-lei/wen-ti-dao-xiang-qu.md)
   * [关于如何学习计算机](ji-suan-ji-lei/guan-yu-ru-he-xue-xi-ji-suan-ji.md)
   * [基础知识列表](ji-suan-ji-lei/ji-chu-zhi-shi-lie-biao.md)
+* [绅士专用](shen-shi-zhuan-yong/README.md)
+  * [翻墙](shen-shi-zhuan-yong/fan-qiang.md)
 
