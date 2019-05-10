@@ -28,7 +28,9 @@ description: 我不想搜索到一堆答案
 
   我决定使用[石墨文档](https://shimo.im/welcome)作为储存我们绝大多数文档内容的容器。
 
-### \*\*\*\*[**一个例子**](https://shimo.im/docs/3JJvN8KOQJA0dtFC/)\*\*\*\*
+### \*\*\*\*[**这是石墨文档的例子**](https://shimo.im/docs/3JJvN8KOQJA0dtFC/)**\(点击查看）**
+
+### [这是腾讯文档的例子](https://docs.qq.com/doc/DVGZhUUVwZXBKVVlk)**\(点击查看）**
 
 {% hint style="info" %}
 [点击这里加入我](https://app.gitbook.com/invite/the-one-1?invite=-LeEp13s3Teg-k-kowcr) 😀 
