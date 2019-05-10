@@ -9,4 +9,5 @@
   * [基础知识列表](ji-suan-ji-lei/ji-chu-zhi-shi-lie-biao.md)
 * [绅士专用](shen-shi-zhuan-yong/README.md)
   * [翻墙](shen-shi-zhuan-yong/fan-qiang.md)
+* [作者的一些话](zuo-zhe-de-yi-xie-hua.md)
 
