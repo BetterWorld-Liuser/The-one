@@ -1,6 +1,8 @@
 # Table of contents
 
 * [介绍](README.md)
+* [教程区](jiao-cheng-qu.md)
+* [资源寻找区](zi-yuan-xun-zhao-qu.md)
 * [生活类](sheng-huo-lei/README.md)
   * [农 / 林 / 牧 / 渔](sheng-huo-lei/nong-lin-mu-yu.md)
   * [采矿业](sheng-huo-lei/cai-kuang-ye.md)
@@ -26,7 +28,6 @@
   * [基础知识列表](ji-suan-ji-lei/ji-chu-zhi-shi-lie-biao.md)
   * [关于如何学习计算机](ji-suan-ji-lei/guan-yu-ru-he-xue-xi-ji-suan-ji.md)
   * [问题导向区](ji-suan-ji-lei/wen-ti-dao-xiang-qu.md)
-  * [资源寻找区](ji-suan-ji-lei/zi-yuan-xun-zhao-qu.md)
 * [绅士专用](shen-shi-zhuan-yong/README.md)
   * [翻墙](shen-shi-zhuan-yong/fan-qiang.md)
 * [作者的一些话](zuo-zhe-de-yi-xie-hua.md)
