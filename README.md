@@ -4,12 +4,34 @@ description: 我不想搜索到一堆答案
 
 # 介绍
 
-## 这是基于Gitbook的一个解决方案手册。
+## 这是一个最佳实践手册。
 
-> 所谓一个解决方案就是为了解决在Google和百度上搜索半天，找到一堆不知对错答案的困扰。
+> 所谓一个最佳实践就是很多人从事过，势必会形成做事的最佳方式。
+>
+> 简单来说就是做事的最佳方法。
+
+### 这里收集和展示了关于生活学习等一切的最佳方法。
+
+* 目前的目录是：
+  * [教程区](jiao-cheng-qu.md)
+  * [资源寻找区](zi-yuan-xun-zhao-qu.md)
+  * [全国各大高校相关资源查找](xi-bei-gong-ye-da-xue-chang-jian-faq/)
+  * [绅士专用](shen-shi-zhuan-yong/)
+  * [生活类](sheng-huo-lei/)
+* 目前资源还很少，这里是一些已有的词条：
+  * [翻墙](shen-shi-zhuan-yong/fan-qiang.md)
+  * [BT下载器](zi-yuan-xun-zhao-qu.md#bt-ci-li-xia-zai-he-ji-xia-zai-ruan-jian-xia-zai-qi-hui-yuan-qu-dao)
+  * [电影资源寻找](zi-yuan-xun-zhao-qu.md#dian-ying-zi-yuan-dian-shi-ju-zi-yuan-sou-suo-na-li-kan-dian-shi-ju-dian-ying)
+  * [word的使用教程](jiao-cheng-qu.md)
+
+
+
+
+
+## 了解更多
 
 * 其实就是一种新的呈现答案的方式。
-* 比如说你想知道怎么养猫，它会告诉你如何如何。
+* **比如说你想知道BT下载器，它会告诉你一个**[**BT下载器列表**](zi-yuan-xun-zhao-qu.md#bt-ci-li-xia-zai-he-ji-xia-zai-ruan-jian-xia-zai-qi-hui-yuan-qu-dao)**（你可以随意编辑它）**。
 * 它不会给你列出来一堆某某人如何如何回答（参见知乎），而是给你仅仅一种回答。
 * 这个答案并不是一个人写的，而是所有人一起创作的，这就保证了答案理论上是最优的。
 * **这个手册强调只有一个答案，而且每个答案都是最优解**，这就意味着：
