@@ -1,8 +1,16 @@
 ---
-description: 我不想搜索到一堆答案
+description: 我不想搜索到一堆答案（已开始迁移到OneNote）
 ---
 
 # 介绍
+
+## OneNote将具有更多特性
+
+网址:[http://uee.me/aV4Y4](http://uee.me/aV4Y4)
+
+各位跳转后记得收藏网址或者通过邀请保存到自己的OneNote里。
+
+OneNote的速度诸位不用担心，国内服务器，裸连没问题。
 
 ## 这是一个最佳实践手册。
 
