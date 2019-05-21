@@ -1,7 +1,8 @@
 # Table of contents
 
 * [介绍](README.md)
-* [教程区](jiao-cheng-qu.md)
+* [教程区](jiao-cheng-qu/README.md)
+  * [数学区](jiao-cheng-qu/shu-xue-qu.md)
 * [资源寻找区](zi-yuan-xun-zhao-qu.md)
 * [全国各大高校相关资源查找](xi-bei-gong-ye-da-xue-chang-jian-faq/README.md)
   * [西北工业大学](xi-bei-gong-ye-da-xue-chang-jian-faq/xi-bei-gong-ye-da-xue.md)

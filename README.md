@@ -13,7 +13,7 @@ description: 我不想搜索到一堆答案（已开始迁移到OneNote）
 ### 这里收集和展示了关于生活学习等一切的最佳方法。
 
 * 目前的目录是：
-  * [教程区](jiao-cheng-qu.md)
+  * [教程区](jiao-cheng-qu/)
   * [资源寻找区](zi-yuan-xun-zhao-qu.md)
   * [全国各大高校相关资源查找](xi-bei-gong-ye-da-xue-chang-jian-faq/)
   * [绅士专用](shen-shi-zhuan-yong/)
@@ -22,7 +22,7 @@ description: 我不想搜索到一堆答案（已开始迁移到OneNote）
   * [翻墙](shen-shi-zhuan-yong/fan-qiang.md)
   * [BT下载器](zi-yuan-xun-zhao-qu.md#bt-ci-li-xia-zai-he-ji-xia-zai-ruan-jian-xia-zai-qi-hui-yuan-qu-dao)
   * [电影资源寻找](zi-yuan-xun-zhao-qu.md#dian-ying-zi-yuan-dian-shi-ju-zi-yuan-sou-suo-na-li-kan-dian-shi-ju-dian-ying)
-  * [word的使用教程](jiao-cheng-qu.md)
+  * [word的使用教程](jiao-cheng-qu/)
 
 
 
