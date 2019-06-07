@@ -70,13 +70,11 @@ description: 我不想搜索到一堆答案（已开始迁移到OneNote）
   * 版本回退
 * 我决定使用[石墨文档](https://shimo.im/welcome)作为储存我们绝大多数文档内容的容器
 
-### \*\*\*\*[**这是石墨文档的例子**](https://shimo.im/docs/3JJvN8KOQJA0dtFC/)**\(点击查看）**
+### [**这是石墨文档的例子**](https://shimo.im/docs/3JJvN8KOQJA0dtFC/)**\(点击查看）**
 
 ### [这是腾讯文档的例子](https://docs.qq.com/doc/DVGZhUUVwZXBKVVlk)**\(点击查看）**
 
-\*\*\*\*
-
-> ## **尝试**[**联系我QQ735083049**](http://wpa.qq.com/msgrd?v=3&uin=735083049&site=qq&menu=yes)\*\*\*\*
+> ## **尝试**[**联系我QQ735083049**](http://wpa.qq.com/msgrd?v=3&uin=735083049&site=qq&menu=yes)
 
 * 好像只能PC端跳转
 
@@ -85,16 +83,8 @@ description: 我不想搜索到一堆答案（已开始迁移到OneNote）
 ![&#x7FA4;&#x7684;&#x4E8C;&#x7EF4;&#x7801;](.gitbook/assets/temp_qrcode_share_685589910.png)
 
 > 具体操作我之后会出详细的教程，目前我在丰富项目内容。
-
-> 暂由liu个人制作 ❤ 
+>
+> 暂由liu个人制作 ❤
 >
 > Made by liu right-now ❤
-
-
-
-
-
-
-
-
 
