@@ -7,12 +7,43 @@
         "splitter",
         "tbfed-pagefooter",
         "popup",
-        "page-toc-button"
+        "page-toc-button",
+        "advanced-emoji",
+        "github",
+        "-sharing", "sharing-plus",
+        "edit-link"
+
     ],
     "pluginsConfig": {
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
-        }
+        },
+        "github": {
+            "url": "https://github.com/zhangjikai"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": true,
+            "pocket": false,
+            "qq": false,
+            "qzone": true,
+            "twitter": false,
+            "weibo": true,
+         "all": [
+              "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+              "messenger","qq", "qzone","viber","whatsapp"
+          ]
+      },
+      "tbfed-pagefooter": {
+        "copyright":"Copyright &copy xxxx.com 2017",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "edit-link": {
+        "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+        "label": "Edit This Page"
+    }
     }
 }
