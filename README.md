@@ -24,40 +24,6 @@ description: 我不想搜索到一堆答案（已开始迁移到OneNote）
   * [电影资源寻找](zi-yuan-xun-zhao-qu.md#dian-ying-zi-yuan-dian-shi-ju-zi-yuan-sou-suo-na-li-kan-dian-shi-ju-dian-ying)
   * [word的使用教程](jiao-cheng-qu/)
 
-
-
-
-
-
-
-
-
-
-
-## 公告
-
-随着OneNote的加入，项目将具备更多特性。
-
-网址:[http://uee.me/aV4Y4](http://uee.me/aV4Y4)
-
-**需要登陆。**
-
-各位跳转后记得收藏网址或者通过邀请保存到自己的OneNote里。
-
-OneNote的速度诸位不用担心，国内服务器，裸连没问题。
-
-此后这里将成为一个纯展示的网站（虽然现在也是...）。
-
-## 为什么要使用OneNote
-
-OneNote可以多人加入编辑团队，
-
-**最重要的是可以直接把整本笔记加入到你自己OneNote里！**
-
-可以浏览器直接访问和直接编辑。
-
-虽然OneNote目前感觉有点跟不上节奏，但我还是很看好它未来的潜力的。
-
 ## 了解更多
 
 * 其实就是一种新的呈现答案的方式。
