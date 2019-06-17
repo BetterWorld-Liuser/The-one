@@ -20,7 +20,7 @@
             "minTocSize": 2
         },
         "github": {
-            "url": "https://github.com/zhangjikai"
+            "url": "https://github.com/liuzhengdong2/The-one"
         },
         "sharing": {
             "douban": false,
@@ -37,13 +37,13 @@
           ]
       },
       "tbfed-pagefooter": {
-        "copyright":"Copyright &copy xxxx.com 2017",
+        "copyright":"Copyright 2019",
         "modify_label": "该文件修订时间：",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "edit-link": {
-        "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
-        "label": "Edit This Page"
+        "base": "https://github.com/liuzhengdong2/The-one/edit/BRANCH/path/to/book",
+        "label": "Edit"
     }
     }
 }
